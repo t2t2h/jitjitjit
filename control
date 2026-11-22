@@ -1,0 +1,8 @@
+Package: com.husk.jitkick
+Name: HuskJITKick
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Checks JIT (CS_DEBUGGED) and asks StikDebug to enable it. Sideload use.
+Maintainer: you
+Author: you
+Section: Tweaks
